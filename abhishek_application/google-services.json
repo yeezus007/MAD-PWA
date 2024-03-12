@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "262634425294",
+    "project_id": "oyo-clone-73273",
+    "storage_bucket": "oyo-clone-73273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262634425294:android:b984e00d31ed45645fb99f",
+        "android_client_info": {
+          "package_name": "com.example.abhishek_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262634425294-d8b8n0g21r87u9jmv77d7m9fr66tgqst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCszOcBoaPlp_4p58uqFsl2XIW5CaICtVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262634425294-d8b8n0g21r87u9jmv77d7m9fr66tgqst.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "262634425294-2ataeeh4jm8t8q8doaame6o4v2m9p8bo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.abhishekApplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

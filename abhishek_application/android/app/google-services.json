@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262634425294",
+    "project_id": "oyo-clone-73273",
+    "storage_bucket": "oyo-clone-73273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262634425294:android:b984e00d31ed45645fb99f",
+        "android_client_info": {
+          "package_name": "com.example.abhishek_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCszOcBoaPlp_4p58uqFsl2XIW5CaICtVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
